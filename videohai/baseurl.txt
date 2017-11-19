@@ -1,3 +1,3 @@
 {
-  "url": "https://raw.githubusercontent.com/doandat/Hai/master/"
+  "url": "https://develop.backendless.com/26511282-E0AB-C722-FF5A-07A7CAD1A200/console/srwqytvzehocywuueeeevuoyyijdaqtsigai/files/view/"
 }
