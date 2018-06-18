@@ -1,3 +1,4 @@
 {
-  "url": "https://raw.githubusercontent.com/doandat/Hai/master/"
+  "url": "https://raw.githubusercontent.com/doandat/Hai/master/",
+  "isPassAppstore" : false
 }
