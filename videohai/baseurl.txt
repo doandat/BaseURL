@@ -1,4 +1,5 @@
 {
   "url": "https://raw.githubusercontent.com/doandat/Hai/master/",
-  "isPassAppstore" : false
+  "isPassAppstore" : false,
+  "isForceAppstoreReviewing" : true
 }
