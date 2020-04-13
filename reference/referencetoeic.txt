@@ -4,6 +4,11 @@
       "name": "eGrammar",
       "url": "https://apps.apple.com/app/id1494332956",
       "image": "https://raw.githubusercontent.com/doandat/BaseURL/master/reference/egrammar.png"
+    },
+{
+      "name": "3000 Vocabulary",
+      "url": "https://apps.apple.com/app/id1226373762",
+      "image": "https://raw.githubusercontent.com/doandat/BaseURL/master/reference/icon3000vocabulary.png"
     }
   ]
 }
